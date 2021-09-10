@@ -38,7 +38,7 @@ class linked_list{
         T first();
         T last();
         void print_list();
-        void printe_backwards();
+        void print_backwards();
         
 }; 
 
